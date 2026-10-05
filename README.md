@@ -7,6 +7,9 @@ My projects combine data processing with application development, from extractin
 ## Selected Projects
 
 ### [PuppyCare](https://github.com/ShaharKoza/PuppyCare)
+
+[Project website](https://shaharkoza.github.io/PuppyCare/)
+
 A smart kennel monitoring system connecting Raspberry Pi sensors, Firebase, and a native iOS app.
 
 The system collects environmental readings in real time, summarizes activity and sound events, and provides rule-based alerts tailored to the dog's profile.
@@ -15,6 +18,9 @@ The system collects environmental readings in real time, summarizes activity and
 **My contribution:** Developed jointly with Shahar Koza across the project.
 
 ### [SmartDay](https://github.com/daniellash161/smartday-v2)
+
+[Project website](https://daniellash161.github.io/smartday-v2/)
+
 A personal organization app that turns payment documents into structured data and actionable reminders.
 
 It extracts text from PDFs and scanned documents, identifies transactions and recurring payments, and flags unusual charges using rules and statistical thresholds. It also integrates with Gmail and Google Calendar.
