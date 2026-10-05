@@ -1,8 +1,12 @@
 # Hi, I'm Daniella
 
-I'm a Computer Science graduate building my path in Data & AI. I enjoy taking scattered information, from documents and sensor readings to everyday tasks, and turning it into something clear and useful.
+### Software Engineer | Backend & AI Solutions
 
-My projects combine data processing with application development, from extracting transactions from PDFs to connecting physical sensors with a mobile dashboard.
+I'm a Computer Science graduate with experience supporting production systems, investigating application issues, and using SQL to understand data and system behavior.
+
+My projects combine backend logic, real-time data processing, and practical automation. I enjoy following a problem from its underlying data to a working solution.
+
+My professional experience includes technical support at Priority Software and production monitoring and troubleshooting at Log-On, working with Linux, Kafka, OpenShift, and ArgoCD.
 
 ## Selected Projects
 
@@ -10,11 +14,11 @@ My projects combine data processing with application development, from extractin
 
 [Project website](https://shaharkoza.github.io/PuppyCare/)
 
-A smart kennel monitoring system connecting Raspberry Pi sensors, Firebase, and a native iOS app.
+A real-time IoT monitoring and alerting system connecting a Python backend on Raspberry Pi, Firebase, and a native iOS app.
 
-The system collects environmental readings in real time, summarizes activity and sound events, and provides rule-based alerts tailored to the dog's profile.
+The system combines Python sensor-data ingestion and validation with profile-driven alert rules, cooldown intervals, and heartbeat monitoring. Firebase Realtime Database and Cloud Functions connect telemetry and alert events to the iOS client.
 
-**Built with:** Python, Firebase, SwiftUI, Raspberry Pi  
+**Built with:** Python, Firebase Realtime Database, Cloud Functions, Raspberry Pi, SwiftUI  
 **My contribution:** Developed jointly with Shahar Koza across the project.
 
 ### [SmartDay](https://github.com/daniellash161/smartday-v2)
